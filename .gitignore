@@ -1,0 +1,10 @@
+*.key
+*.pem
+*.pfx
+*.p12
+*.env
+*.log
+samples/
+evidence-private/
+operational-data/
+credentials/
